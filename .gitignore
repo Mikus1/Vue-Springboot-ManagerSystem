@@ -1,0 +1,4 @@
+# 忽略打包文件
+springboot/target/
+# 忽略前端modules
+vue/node_modules/
